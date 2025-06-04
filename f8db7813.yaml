@@ -19,9 +19,9 @@ proxies:
 - name: UK1
   type: wireguard
   server: 94.46.220.10
-  port: 55670
-  ip: 100.96.3.75
-  private-key: xV/g3NP46rFpZh3xRpvIyTfZIm9zS1IHQwBk3oH0d8k=
+  port: 58334
+  ip: 100.96.2.240
+  private-key: zR9y6ESNJ9Tgh1FvW3UC7O/53K8mJ/bTREvBIl6mGfU=
   public-key: hiwbKEu8oVHkzpz60dwCWeM34IeZhB+7ZZdVQc9MSic=
   dns:
   - 198.18.0.1
@@ -31,9 +31,9 @@ proxies:
 - name: US1
   type: wireguard
   server: 216.131.78.245
-  port: 56174
-  ip: 100.96.0.216
-  private-key: 6CobUDUNnqnHkJo4ZBCQveACQ3qOd/nXFewuncgLImA=
+  port: 56673
+  ip: 100.96.1.14
+  private-key: wZNv6cun3lIAJnyHJBI+ybplm0RdLyzcoQwArxeCXb0=
   public-key: wj3VtwNUAj9Mt+4XiY67yPlC6OJsdENN5uTozybDcB0=
   dns:
   - 198.18.0.1
@@ -43,9 +43,9 @@ proxies:
 - name: US2
   type: wireguard
   server: 216.131.79.242
-  port: 56896
-  ip: 100.96.1.225
-  private-key: NOcJDqoDFgBu8Fn343dt8jxmAe2yGKtNBu5fP+F/ZqQ=
+  port: 56527
+  ip: 100.96.2.151
+  private-key: IlAVIv0hZOXKIsEC78xqSAy6AK/NPdv+qIV9OKQTos8=
   public-key: vGEkyppw6EC6tZsiJ4TppYnEFgwagHAVZmMpuGjM9XU=
   dns:
   - 198.18.0.1
@@ -55,9 +55,9 @@ proxies:
 - name: DE1
   type: wireguard
   server: 216.131.111.118
-  port: 57267
-  ip: 100.96.0.129
-  private-key: 5TgbkfhL/s0GS6WID4ET2hv1JhiAzJXGT2vWX3LHPKY=
+  port: 58484
+  ip: 100.96.1.126
+  private-key: io42ENDdxCuQcw9Z8RapDt6bJILrPD0slcLvqal++CI=
   public-key: 647+qKbWf4IHfs003lZY8lp0lsSA/h3SqEd7MsQJQ28=
   dns:
   - 198.18.0.1
@@ -67,9 +67,9 @@ proxies:
 - name: US3
   type: wireguard
   server: 216.131.86.13
-  port: 56849
-  ip: 100.96.1.241
-  private-key: 5nQ4bZytVVcYoeBWM0La0b7koIG2dCQiAKv/HKyYpXo=
+  port: 56503
+  ip: 100.96.0.229
+  private-key: Eos3EQ6EgTqbzb5hsdf9MsOozT8s1uUaBiGyJtGdNSo=
   public-key: LCjnyXLrtd7jI5pHz3J2P7uyu8T/KnVy1JKRTGNwSGc=
   dns:
   - 198.18.0.1
@@ -79,9 +79,9 @@ proxies:
 - name: US4
   type: wireguard
   server: 216.131.86.17
-  port: 58837
-  ip: 100.96.3.254
-  private-key: zQYofah83kndyu6K50gTN8n7oZoqnm8o8VGn1aCVSt0=
+  port: 59964
+  ip: 100.96.3.72
+  private-key: 6XWPcM8NuZIvhymoiGjubVjY864w1ogvGB4lYbYbDqs=
   public-key: Cw0NpuZZwmSihp3q/4h630/wzb+pAKpHYIMyG5+XHmo=
   dns:
   - 198.18.0.1
@@ -91,9 +91,9 @@ proxies:
 - name: UK2
   type: wireguard
   server: 216.151.184.120
-  port: 57825
-  ip: 100.96.2.98
-  private-key: GTeXk6OmyEnryH/JvtCxRR1HgWIInSEy+aiKPJ+7Bpg=
+  port: 57139
+  ip: 100.96.3.65
+  private-key: 1QqQLWZw8dqXHIGlqbNUR0QCa7euSsoKk0PY8+vvuxQ=
   public-key: J3SkRzxzYEIWZF50i+fIwnyp6oUCY/qLnJoPcaqpGSs=
   dns:
   - 198.18.0.1
@@ -103,9 +103,9 @@ proxies:
 - name: UK3
   type: wireguard
   server: 216.151.184.243
-  port: 59995
-  ip: 100.96.4.164
-  private-key: 1vQGpp8gX9vwB0x0n+eNpg4vz60gRw0OXbGdmELqHW8=
+  port: 57941
+  ip: 100.96.1.95
+  private-key: 3blJNVqY7cwNtMNB0eQ+53PKaE1DQDuMBmul+LKWyGc=
   public-key: CU4qwcfk906Awq3j/01GD1x8DDdtaBXijbVFuRuzGVU=
   dns:
   - 198.18.0.1
@@ -115,9 +115,9 @@ proxies:
 - name: FR1
   type: wireguard
   server: 176.67.82.123
-  port: 56189
-  ip: 100.96.1.205
-  private-key: bGUs7k/fsq/54J55tV2HlTlljsCR1ezPgjWk/zescNs=
+  port: 59012
+  ip: 100.96.0.5
+  private-key: I+9u0zJxjssaCEf5xSgA6EoFG0e9I93F5nLAaJV26XE=
   public-key: HQ+KEajZ1TsKFjf+j/cI8iTLtne5f3dRycbmF7wciEk=
   dns:
   - 198.18.0.1
@@ -127,9 +127,9 @@ proxies:
 - name: JP1
   type: wireguard
   server: 36.255.206.119
-  port: 55361
-  ip: 100.96.4.61
-  private-key: VQ5c9JjRj7KuyFD5w9mE7MbkLnMW7aRaYg5f6OzirqY=
+  port: 55807
+  ip: 100.96.3.193
+  private-key: 5UfpX0smpD8H6UuLLyfS33dB/fwwK6PBJzkTZHIoK78=
   public-key: z6CDOqOew73n2pqHcDsgTug6yoNbPJFvPamb0he+JEY=
   dns:
   - 198.18.0.1
@@ -139,9 +139,9 @@ proxies:
 - name: US5
   type: wireguard
   server: 108.171.121.16
-  port: 56907
-  ip: 100.96.1.46
-  private-key: iR4JcWqtWenv4lCG7woUaA8O2hmk1i1XMNdT7YGFFGA=
+  port: 55368
+  ip: 100.96.4.84
+  private-key: JW+MCT7mc+wJZBmz7yUmbToYWTsyTuHN1UkdS/6fBkk=
   public-key: abRPXRyWjpwzwT4q3uTJvm/euVh1MWsJHmT6G0zjzkU=
   dns:
   - 198.18.0.1
@@ -151,9 +151,9 @@ proxies:
 - name: US6
   type: wireguard
   server: 108.171.123.86
-  port: 59138
-  ip: 100.96.2.166
-  private-key: L+PgB8tYIio3Ap4YGhK3GCik5evkQCoYv9sErZO7LJo=
+  port: 59705
+  ip: 100.96.0.119
+  private-key: 9Hb5bPXOXzuMSDSruZQAoiBIpOH+/BqGoueIVg24DaQ=
   public-key: zQJMvVC5rbVkskgmA8km1C7Jw+6EB8ZzbmTcDSGwJ1I=
   dns:
   - 198.18.0.1
@@ -163,9 +163,9 @@ proxies:
 - name: US7
   type: wireguard
   server: 108.171.124.146
-  port: 59844
-  ip: 100.96.2.129
-  private-key: y5XlP4Htuvk4i6s6VsrbqTJZuYQFDoEWR67nePWlZJ4=
+  port: 59646
+  ip: 100.96.0.42
+  private-key: sLicEYkFSmf08MJTt2IrfrtnDjWPFKHX0hGr8aTfUrc=
   public-key: UvDp/XIaLCXvLu72+nQKtFeKcG/GXsfXgzPg80LWFQk=
   dns:
   - 198.18.0.1
@@ -175,9 +175,9 @@ proxies:
 - name: CA1
   type: wireguard
   server: 209.127.16.188
-  port: 56136
-  ip: 100.96.1.161
-  private-key: ERy1A3dJwVLgIgo247L+r2i088iaZ/qehUvpM8AtsqM=
+  port: 58153
+  ip: 100.96.2.15
+  private-key: OzbGA40qI4RinoF3ddidSnrBnmEq4Z0D0vQqtuF0Vjw=
   public-key: cK0F1UWkiY8H57V3ZnSp6W1Du3R5noX5IT63GgmVUh8=
   dns:
   - 198.18.0.1
@@ -188,19 +188,19 @@ proxy-groups:
 - name: PROXY
   type: select
   proxies:
-  - CA1
-  - US7
-  - UK2
-  - US5
   - US3
-  - UK3
-  - US6
-  - JP1
-  - DE1
-  - US2
-  - US4
+  - UK2
+  - US7
   - UK1
+  - US2
+  - JP1
+  - UK3
   - US1
+  - US5
+  - US6
+  - CA1
+  - US4
+  - DE1
   - FR1
 - name: Auto-Test
   type: url-test
@@ -208,19 +208,19 @@ proxy-groups:
   interval: 300
   tolerance: 50
   proxies:
-  - CA1
-  - US7
-  - UK2
-  - US5
   - US3
-  - UK3
-  - US6
-  - JP1
-  - DE1
-  - US2
-  - US4
+  - UK2
+  - US7
   - UK1
+  - US2
+  - JP1
+  - UK3
   - US1
+  - US5
+  - US6
+  - CA1
+  - US4
+  - DE1
   - FR1
 rules:
 - DOMAIN-SUFFIX,chatgpt.com,PROXY
