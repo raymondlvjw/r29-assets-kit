@@ -19,9 +19,9 @@ proxies:
 - name: UK1
   type: wireguard
   server: 94.46.220.10
-  port: 55577
-  ip: 100.96.3.30
-  private-key: rzddJpOXHk1YxuEnKDy/xZP3cedZSB3IpVnc5i6M6/E=
+  port: 56729
+  ip: 100.96.1.222
+  private-key: b5VETRTknrUPi6ex/VEB3LIilgG1IzZY/WXoFDQ9oZQ=
   public-key: hiwbKEu8oVHkzpz60dwCWeM34IeZhB+7ZZdVQc9MSic=
   dns:
   - 198.18.0.1
@@ -31,9 +31,9 @@ proxies:
 - name: US1
   type: wireguard
   server: 216.131.78.245
-  port: 55805
-  ip: 100.96.0.81
-  private-key: Omss3r4LHEQgLd457WFY0eu19Qkq/vE8bMmoo4iEI/I=
+  port: 56952
+  ip: 100.96.2.64
+  private-key: UUG/AqzW8XTv7Icsh/Lty3YUzbdmF8zfVpYUTiVNQco=
   public-key: wj3VtwNUAj9Mt+4XiY67yPlC6OJsdENN5uTozybDcB0=
   dns:
   - 198.18.0.1
@@ -43,9 +43,9 @@ proxies:
 - name: US2
   type: wireguard
   server: 216.131.79.242
-  port: 58490
-  ip: 100.96.2.254
-  private-key: rDjge3bQ3Ufy7uETsnbA/4/30QMNg5lfzGSXmW4dh0w=
+  port: 58514
+  ip: 100.96.1.227
+  private-key: NuoHuQ/DKBbswJ7tFRYnJstX1JwXUmJi6D3VfVhu5t0=
   public-key: vGEkyppw6EC6tZsiJ4TppYnEFgwagHAVZmMpuGjM9XU=
   dns:
   - 198.18.0.1
@@ -55,9 +55,9 @@ proxies:
 - name: DE1
   type: wireguard
   server: 216.131.111.118
-  port: 56742
-  ip: 100.96.1.220
-  private-key: dGZ649n7FbcfO+AgW8aqTFl+9YPAalQ0e5bFZFZWchw=
+  port: 57868
+  ip: 100.96.0.110
+  private-key: o+R7YhoqC5GI8czOxhhoe+IzlqCKBc2WqdCpzRWlY7E=
   public-key: 647+qKbWf4IHfs003lZY8lp0lsSA/h3SqEd7MsQJQ28=
   dns:
   - 198.18.0.1
@@ -67,9 +67,9 @@ proxies:
 - name: US3
   type: wireguard
   server: 216.131.86.13
-  port: 56191
-  ip: 100.96.6.33
-  private-key: PuOlJ4rAowg0hb+9k4i1CVaktHE/MXJDAqJB1qZHsP0=
+  port: 59037
+  ip: 100.96.6.131
+  private-key: R5gHWVZJE3GiJmJeUvCHb8rjWo3jP8ncPITGSnVN1hA=
   public-key: LCjnyXLrtd7jI5pHz3J2P7uyu8T/KnVy1JKRTGNwSGc=
   dns:
   - 198.18.0.1
@@ -79,9 +79,9 @@ proxies:
 - name: US4
   type: wireguard
   server: 216.131.86.17
-  port: 55368
-  ip: 100.96.4.13
-  private-key: PyjBXiqBqza6ALuNLwOTnEblZ2ustz26/LhLpJmRLvU=
+  port: 55108
+  ip: 100.96.4.81
+  private-key: gEMWQeERrlC87mfSXJiEI76n6CW+wt3B/KccAFXXGos=
   public-key: Cw0NpuZZwmSihp3q/4h630/wzb+pAKpHYIMyG5+XHmo=
   dns:
   - 198.18.0.1
@@ -91,9 +91,9 @@ proxies:
 - name: UK2
   type: wireguard
   server: 216.151.184.120
-  port: 59872
-  ip: 100.96.3.147
-  private-key: frBbp5iTo0ZrRPOTR9N3d1yxpl3csQfgv1kP6syI9Mc=
+  port: 55256
+  ip: 100.96.4.8
+  private-key: hovqzWs/34nqN3b0GIX7liP2/ki6qE5eTPxC1a7Fd8A=
   public-key: J3SkRzxzYEIWZF50i+fIwnyp6oUCY/qLnJoPcaqpGSs=
   dns:
   - 198.18.0.1
@@ -103,9 +103,9 @@ proxies:
 - name: UK3
   type: wireguard
   server: 216.151.184.243
-  port: 57632
-  ip: 100.96.2.157
-  private-key: InHJ+1ekK5W/c2JGQ0l/uR9DgQyHm5egLRnFNrv+J8A=
+  port: 57720
+  ip: 100.96.1.91
+  private-key: 3wYS7d3qfb9RRvq0wmO/4npK8e9HbT/5hDctM9cGe8o=
   public-key: CU4qwcfk906Awq3j/01GD1x8DDdtaBXijbVFuRuzGVU=
   dns:
   - 198.18.0.1
@@ -115,9 +115,9 @@ proxies:
 - name: FR1
   type: wireguard
   server: 176.67.82.123
-  port: 58381
-  ip: 100.96.2.78
-  private-key: BAmyztDlvN1tSEH/iWsoRNOfnDuI5Pjy1ddsu9C1h8Y=
+  port: 59681
+  ip: 100.96.0.19
+  private-key: CgI21NbZSra6KQS83ZUe93HHTZMmdttHxWHl5eTZlMs=
   public-key: HQ+KEajZ1TsKFjf+j/cI8iTLtne5f3dRycbmF7wciEk=
   dns:
   - 198.18.0.1
@@ -127,9 +127,9 @@ proxies:
 - name: JP1
   type: wireguard
   server: 36.255.206.119
-  port: 58039
-  ip: 100.96.0.215
-  private-key: 3VTUZFKnHvSD+Oo4vuga/bGFR0Lxlm9N7jzGA8U0NAU=
+  port: 55539
+  ip: 100.96.5.114
+  private-key: S6AOJ3lnNe/50rDssifAmQaUsbxF1od+9luZ7AVM4EY=
   public-key: z6CDOqOew73n2pqHcDsgTug6yoNbPJFvPamb0he+JEY=
   dns:
   - 198.18.0.1
@@ -142,14 +142,14 @@ proxy-groups:
   proxies:
   - UK3
   - US2
-  - UK1
+  - UK2
+  - DE1
   - FR1
+  - UK1
+  - US4
+  - JP1
   - US1
   - US3
-  - JP1
-  - UK2
-  - US4
-  - DE1
 - name: Auto-Test
   type: url-test
   url: http://www.gstatic.com/generate_204
@@ -158,14 +158,14 @@ proxy-groups:
   proxies:
   - UK3
   - US2
-  - UK1
+  - UK2
+  - DE1
   - FR1
+  - UK1
+  - US4
+  - JP1
   - US1
   - US3
-  - JP1
-  - UK2
-  - US4
-  - DE1
 rules:
 - DOMAIN-SUFFIX,chatgpt.com,PROXY
 - DOMAIN-SUFFIX,ghcr.io,PROXY
