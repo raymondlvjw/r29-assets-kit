@@ -19,9 +19,9 @@ proxies:
 - name: UK1
   type: wireguard
   server: 94.46.220.10
-  port: 58164
-  ip: 100.96.3.79
-  private-key: k9eRGU5Kf5qyApAf8uZ3WJM+5NDx1v/PMV1jBeMOGyo=
+  port: 59577
+  ip: 100.96.2.164
+  private-key: OjO0B8WPJJ+3Lw8OmS0lmH7S0/VkAky4rG3pwMnqAE4=
   public-key: hiwbKEu8oVHkzpz60dwCWeM34IeZhB+7ZZdVQc9MSic=
   dns:
   - 198.18.0.1
@@ -31,10 +31,34 @@ proxies:
 - name: US1
   type: wireguard
   server: 216.131.78.245
-  port: 57542
-  ip: 100.96.1.79
-  private-key: noPeI7roApebRo8bTiMwWVK5LasKlSTmUcW3Y6G+uRA=
+  port: 58217
+  ip: 100.96.0.72
+  private-key: W/pvZGJn/ikcMVZMPrn//3EpJWWlXu3ov+n47xG09tg=
   public-key: wj3VtwNUAj9Mt+4XiY67yPlC6OJsdENN5uTozybDcB0=
+  dns:
+  - 198.18.0.1
+  - 198.18.0.2
+  mtu: 1280
+  udp: true
+- name: US2
+  type: wireguard
+  server: 216.131.79.242
+  port: 59711
+  ip: 100.96.1.52
+  private-key: eECrKvwYCveUMDS0TC2cRoW/uJjm3IyBAkiMe1/1b9I=
+  public-key: vGEkyppw6EC6tZsiJ4TppYnEFgwagHAVZmMpuGjM9XU=
+  dns:
+  - 198.18.0.1
+  - 198.18.0.2
+  mtu: 1280
+  udp: true
+- name: DE1
+  type: wireguard
+  server: 216.131.111.118
+  port: 56050
+  ip: 100.96.2.47
+  private-key: i8fBdUWvowhqNF2veDCbo/Lrh4Uo62hlzJ2CXrypbEM=
+  public-key: 647+qKbWf4IHfs003lZY8lp0lsSA/h3SqEd7MsQJQ28=
   dns:
   - 198.18.0.1
   - 198.18.0.2
@@ -45,6 +69,8 @@ proxy-groups:
   type: select
   proxies:
   - US1
+  - DE1
+  - US2
   - UK1
 - name: Auto-Test
   type: url-test
@@ -53,6 +79,8 @@ proxy-groups:
   tolerance: 50
   proxies:
   - US1
+  - DE1
+  - US2
   - UK1
 rules:
 - DOMAIN-SUFFIX,chatgpt.com,PROXY
