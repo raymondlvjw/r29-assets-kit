@@ -19,9 +19,9 @@ proxies:
 - name: UK1
   type: wireguard
   server: 94.46.220.10
-  port: 55639
-  ip: 100.96.3.182
-  private-key: 6rwOcYmc/LKtbK9uQpDjnvqN/j7Rbs6tPlLUOLFDZvg=
+  port: 58000
+  ip: 100.96.3.26
+  private-key: r0CEZPdrSZiHxg/bq/w5OFHts9uXqVFPVzgUEkefTdc=
   public-key: hiwbKEu8oVHkzpz60dwCWeM34IeZhB+7ZZdVQc9MSic=
   dns:
   - 198.18.0.1
@@ -31,9 +31,9 @@ proxies:
 - name: US1
   type: wireguard
   server: 216.131.78.245
-  port: 57159
-  ip: 100.96.3.21
-  private-key: DuR3nR48KbSzzvJWWVvanqW0C4yYVW/0dvB8TsV2kOY=
+  port: 57142
+  ip: 100.96.0.58
+  private-key: LCw6y4qokw6kV73UhzpzkEb7OQ53S2vnc1zOWcXwW4k=
   public-key: wj3VtwNUAj9Mt+4XiY67yPlC6OJsdENN5uTozybDcB0=
   dns:
   - 198.18.0.1
@@ -43,9 +43,9 @@ proxies:
 - name: US2
   type: wireguard
   server: 216.131.79.242
-  port: 57155
-  ip: 100.96.1.20
-  private-key: 9PcYeXoNb/gM+TXh91hZWc81RY5ClLGghUXhlSEnBiU=
+  port: 57781
+  ip: 100.96.1.84
+  private-key: kNuQO97Ky2KKUu35EYATO57DPrZTCY2yqhDkYmetFIw=
   public-key: vGEkyppw6EC6tZsiJ4TppYnEFgwagHAVZmMpuGjM9XU=
   dns:
   - 198.18.0.1
@@ -55,9 +55,9 @@ proxies:
 - name: DE1
   type: wireguard
   server: 216.131.111.118
-  port: 59712
-  ip: 100.96.0.125
-  private-key: VG2uo96BWJ8wqyqQp1hfYG05C0qsOjQnNCmcDoclZgo=
+  port: 56697
+  ip: 100.96.2.3
+  private-key: 7nVdeaaUTRDRTv1E63PKLHnRatpusxbs8/rRe76ikO4=
   public-key: 647+qKbWf4IHfs003lZY8lp0lsSA/h3SqEd7MsQJQ28=
   dns:
   - 198.18.0.1
@@ -67,9 +67,9 @@ proxies:
 - name: UK2
   type: wireguard
   server: 216.151.184.120
-  port: 57424
-  ip: 100.96.2.144
-  private-key: G+25MK6fMFrXEqjpEJ9codikCMfHz/sx6hbRlPUcRSc=
+  port: 56799
+  ip: 100.96.0.126
+  private-key: VR/hKVEerzv97C5sEJsC8xHWtXcrbxmoGoGonxQkIlo=
   public-key: J3SkRzxzYEIWZF50i+fIwnyp6oUCY/qLnJoPcaqpGSs=
   dns:
   - 198.18.0.1
@@ -79,9 +79,9 @@ proxies:
 - name: UK3
   type: wireguard
   server: 216.151.184.243
-  port: 59380
-  ip: 100.96.0.237
-  private-key: 1+2TEZLWqK+f0t7sLy9LpSNSzshTYnuD51ei6SFSv7A=
+  port: 58789
+  ip: 100.96.0.250
+  private-key: tjxLP2ghio6ub8CG71xzsDg42IIjOaZ6S2zCGum/6MI=
   public-key: CU4qwcfk906Awq3j/01GD1x8DDdtaBXijbVFuRuzGVU=
   dns:
   - 198.18.0.1
@@ -91,9 +91,9 @@ proxies:
 - name: FR1
   type: wireguard
   server: 176.67.82.123
-  port: 56580
-  ip: 100.96.1.117
-  private-key: H52tf/K3RmPmHSU6hvTIjO50+7X03u7YanzkACIKk6c=
+  port: 55754
+  ip: 100.96.0.43
+  private-key: /zR3w1jq4Rx7f1Q5GhM1lu1yz+3cVwSIguzdNV2eX8c=
   public-key: HQ+KEajZ1TsKFjf+j/cI8iTLtne5f3dRycbmF7wciEk=
   dns:
   - 198.18.0.1
@@ -103,9 +103,9 @@ proxies:
 - name: US3
   type: wireguard
   server: 108.171.121.16
-  port: 56372
-  ip: 100.96.1.219
-  private-key: LA9hWbeOrwc9/n65u+QBSuNDhIhzIh4Ez3Dt/c22yyU=
+  port: 58765
+  ip: 100.96.5.43
+  private-key: 94X1KM/OxD6Ht06YBeWyOitHIU85VIUp32MzVpPdTvE=
   public-key: abRPXRyWjpwzwT4q3uTJvm/euVh1MWsJHmT6G0zjzkU=
   dns:
   - 198.18.0.1
@@ -115,9 +115,9 @@ proxies:
 - name: US4
   type: wireguard
   server: 108.171.123.86
-  port: 57841
-  ip: 100.96.1.135
-  private-key: r78eUSaBBbx9fuViY859U6/jvR5BrVBfQ6Uj60ug0bw=
+  port: 56336
+  ip: 100.96.1.43
+  private-key: 4Ajx7bBvZZiC+kFUQgTfHtRFgn43o0oUjLWpiPord64=
   public-key: zQJMvVC5rbVkskgmA8km1C7Jw+6EB8ZzbmTcDSGwJ1I=
   dns:
   - 198.18.0.1
@@ -127,9 +127,9 @@ proxies:
 - name: US5
   type: wireguard
   server: 108.171.124.146
-  port: 56959
-  ip: 100.96.0.190
-  private-key: j8Wef3iBl87tNPF0/iFqeCBtP8ev05Yyw5y4AZloBKc=
+  port: 57032
+  ip: 100.96.2.218
+  private-key: 1t9M5bnl8ijpI9Oj+3aG+yKmotwutwhRE/5NvlVibTI=
   public-key: UvDp/XIaLCXvLu72+nQKtFeKcG/GXsfXgzPg80LWFQk=
   dns:
   - 198.18.0.1
@@ -140,32 +140,32 @@ proxy-groups:
 - name: PROXY
   type: select
   proxies:
-  - UK1
-  - UK2
-  - UK3
-  - FR1
-  - US3
-  - US5
-  - DE1
   - US2
-  - US4
+  - US5
+  - FR1
+  - UK3
   - US1
+  - US3
+  - US4
+  - UK2
+  - UK1
+  - DE1
 - name: Auto-Test
   type: url-test
   url: http://www.gstatic.com/generate_204
   interval: 300
   tolerance: 50
   proxies:
-  - UK1
-  - UK2
-  - UK3
-  - FR1
-  - US3
-  - US5
-  - DE1
   - US2
-  - US4
+  - US5
+  - FR1
+  - UK3
   - US1
+  - US3
+  - US4
+  - UK2
+  - UK1
+  - DE1
 rules:
 - DOMAIN-SUFFIX,chatgpt.com,PROXY
 - DOMAIN-SUFFIX,ghcr.io,PROXY
